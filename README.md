@@ -8,330 +8,297 @@ Regression problems have been widely studied in machine learning literature resu
 [Paper](https://github.com/nobias-project/Publications/blob/main/mougan2021quantile.pdf) 
 
 ## Logic programming for XAI: A technical perspective
-### by _ _ 
-### ()
+#### by _ _ 
+#### ()
 
 \
 [Paper]()
 
 ## Desiderata for Explainable AI in statistical production systems of the European Central Bank
-### by _ _ 
-### ()
+#### by _ _ 
+#### ()
 
 \
 [Paper]()
 
 ## Measuring Shifts in Attitudes Towards COVID-19 Measures in Belgium
-### by _ _ 
-### ()
+#### by _ _ 
+#### ()
 
 \
 [Paper]()
 
-
 ## A survey on bias in visual datasets
-### by _ _ 
-### ()
+#### by _ _ 
+#### ()
 
 \
-### Paper:
-\
-\
+[Paper]()
+
 ## Introducing explainable supervised machine learning into interactive feedback loops for statistical production system
-### by _ _ 
-### ()
+#### by _ _ 
+#### ()
 
 \
-### Paper:
-\
-\
+[Paper]()
+
 ## Semantic Web technologies and bias in artificial intelligence: A systematic literature review
-### by _ _ 
-### ()
+#### by _ _ 
+#### ()
 
 \
-### Paper:
-\
-\
+[Paper]()
+
 ## Time to Question if We Should: Data-Driven and Algorithmic Tools in Public Employment Services
-### by _ _ 
-### ()
+#### by _ _ 
+#### ()
 
 \
-### Paper:
-\
-\
+[Paper]()
+
 ## Data Privacy Issues in Big Biomedical Data
-### by _ _ 
-### ()
+#### by _ _ 
+#### ()
 
 \
-### Paper:
-\
-\
+[Paper]()
+
 ## Explainability in Practice: Estimating Electrification Rates from Mobile Phone Data in Senegal
-### by _ _ 
-### ()
+#### by _ _ 
+#### ()
 
 \
-### Paper:
-\
-\
+[Paper]()
+
 ## Predicting and explaining employee turnover intention
-### by _ _ 
-### ()
+#### by _ _ 
+#### ()
 
 \
-### Paper:
-\
-\
+[Paper]()
+
 ## Fairness Implications of Encoding Protected Categorical Attributes
-### by _ _ 
-### ()
+#### by _ _ 
+#### ()
 
 \
-### Paper:
-\
-\
+[Paper]()
+
 ## Policy advice and best practices on bias and fairness in AI
-### by _ _ 
-### ()
+#### by _ _ 
+#### ()
 
 \
-### Paper:
-\
-\
+[Paper]()
+
 ## Can We Trust Fair-AI?
-### by _ _ 
-### ()
+#### by _ _ 
+#### ()
 
 \
-### Paper:
-\
-\
+[Paper]()
+
 ## Domain Adaptive Decision Trees: Implications for Accuracy and Fairness
-### by _ _ 
-### ()
+#### by _ _ 
+#### ()
 
 \
-### Paper:
-\
-\
+[Paper]()
+
 ## Counterfactual Situation Testing: Uncovering Discrimination under Fairness given the Difference
-### by _ _ 
-### ()
+#### by _ _ 
+#### ()
 
 \
-### Paper:
-\
-\
+[Paper]()
+
 ## Causal Fairness-Guided Dataset Reweighting using Neural Networks
-### by _ _ 
-### ()
+#### by _ _ 
+#### ()
 
 \
-### Paper:
-\
-\
+[Paper]()
+
 ## Reason to Explain: Interactive Contrastive Explanations (REASONX)
-### by _ _ 
-### ()
+#### by _ _ 
+#### ()
 
 \
-### Paper:
-\
-\
+[Paper]()
+
 ## Explaining short text classification with diverse synthetic exemplars and counter-exemplars
-### by _ _ 
-### ()
+#### by _ _ 
+#### ()
 
 \
-### Paper:
-\
-\
+[Paper]()
+
 ## Declarative Reasoning on Explanations Using Constraint Logic Programming
-### by _ _ 
-### ()
+#### by _ _ 
+#### ()
 
 \
-### Paper:
-\
-\
+[Paper]()
+
 ## The Explanation Dialogues: Understanding How Legal Experts Reason About XAI Methods
-### by _ _ 
-### ()
+#### by _ _ 
+#### ()
 
 \
-### Paper:
-\
-\
+[Paper]()
+
 ## Careful Explanations: A Feminist Perspective on XAI
-### by _ _ 
-### ()
+#### by _ _ 
+#### ()
 
 \
-### Paper:
-\
-\
+[Paper]()
+
 ## Constructing Meaningful Explanations: Logic-based Approaches
-### by _ _ 
-### ()
+#### by _ _ 
+#### ()
 
 \
-### Paper:
-\
-\
+[Paper]()
+
 ## Causal Perception
-### by _ _ 
-### ()
+#### by _ _ 
+#### ()
 
 \
-### Paper:
-\
-\
+[Paper]()
+
 ## A Causal Framework for Evaluating Deferring Systems
-### by _ _ 
-### ()
+#### by _ _ 
+#### ()
 
 \
-### Paper:
-\
-\
+[Paper]()
+
 ## Uncovering Algorithmic Discrimination: An Opportunity to Revisit the Comparator
-### by _ _ 
-### ()
+#### by _ _ 
+#### ()
 
 \
-### Paper:
-\
-\
+[Paper]()
+
 ## Enhancing Fairness through Reweighting: A Path to Attain the Sufficiency Rule
-### by _ _ 
-### ()
+#### by _ _ 
+#### ()
 
 \
-### Paper:
-\
-\
+[Paper]()
+
 ## Link recommendations: Their impact on network structure and minorities
-### by _ _ 
-### ()
+#### by _ _ 
+#### ()
 
 \
-### Paper:
-\
-\
+[Paper]()
+
 ## Algorithmic Tools in Public Employment Services: Towards a Jobseeker-Centric Perspective
-### by _ _ 
-### ()
+#### by _ _ 
+#### ()
 
 \
-### Paper:
-\
-\
+[Paper]()
+
 ## Bias in Hate Speech and Toxicity Detection
-### by _ _ 
-### ()
+#### by _ _ 
+#### ()
 
 \
-### Paper:
-\
-\
+[Paper]()
+
 ## Explanation Shift: Detecting distribution shifts on tabular data via the explanation space
-### by _ _ 
-### ()
+#### by _ _ 
+#### ()
 
 \
-### Paper:
-\
-\
+[Paper]()
+
 ## Fairness in Agreement With European Values
-### by _ _ 
-### ()
+#### by _ _ 
+#### ()
 
 \
-### Paper:
-\
-\
+[Paper]()
+
 ## Studying bias in visual features through the lens of optimal transport
-### by _ _ 
-### ()
+#### by _ _ 
+#### ()
 
 \
-### Paper:
-\
-\
+[Paper]()
+
 ## Beyond Demographic Parity: Redefining Equal Treatment
-### by _ _ 
-### ()
+#### by _ _ 
+#### ()
 
 \
-### Paper:
-\
-\
+[Paper]()
+
 ## The Initial Screening Order Problem
-### by _ _ 
-### ()
+#### by _ _ 
+#### ()
 
 \
-### Paper:
-\
-\
+[Paper]()
+
 ## Supporting Online Toxicity Detection with Knowledge Graphs
-### by _ _ 
-### ()
+#### by _ _ 
+#### ()
 
 \
-### Paper:
-\
-\
+[Paper]()
+
 ## Counterfactual Explanation for Regression via Disentanglement in Latent Space
-### by _ _ 
-### ()
+#### by _ _ 
+#### ()
 
 \
-### Paper:
-\
-\
+[Paper]()
+
 ## Monitoring Model Deterioration with Explainable Uncertainty Estimation via Non-parametric Bootstrap
-### by _ _ 
-### ()
+#### by _ _ 
+#### ()
 
 \
-### Paper:
-\
-\
+[Paper]()
+
 ## How to Data in Datathons
-### by _ _ 
-### ()
+#### by _ _ 
+#### ()
 
 \
-### Paper:
-\
-\
+[Paper]()
+
 ## Estimating Ground Truth in a Low-labelled Data Regime: A Study of Racism Detection in Spanish
-### by _ _ 
-### ()
+#### by _ _ 
+#### ()
 
 \
-### Paper:
-\
-\
+[Paper]()
+
 ## Affinity Clustering Framework for Data Debiasing Using Pairwise Distribution Discrepancy
-### by _ _ 
-### ()
+#### by _ _ 
+#### ()
 
 \
-### Paper:
-\
-\
+[Paper]()
+
 ## The Role of Large Language Models in the Recognition of Territorial Sovereignty: An Analysis of the Construction of Legitimacy
-### by _ _ 
-### ()
+#### by _ _ 
+#### ()
 
 \
-### Paper:
-\
-\
+[Paper]()
+
 ## Context matters for fairness -- a case study on the effect of spatial distribution shifts
+
+#### by _ _ 
+#### ()
+
+\
+[Paper]()
 
