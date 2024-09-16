@@ -122,31 +122,220 @@ Regression problems have been widely studied in machine learning literature resu
 \
 \
 ## Counterfactual Situation Testing: Uncovering Discrimination under Fairness given the Difference
+### by _ _ 
+### ()
+
+\
+### Paper:
+\
+\
 ## Causal Fairness-Guided Dataset Reweighting using Neural Networks
+### by _ _ 
+### ()
+
+\
+### Paper:
+\
+\
 ## Reason to Explain: Interactive Contrastive Explanations (REASONX)
+### by _ _ 
+### ()
+
+\
+### Paper:
+\
+\
 ## Explaining short text classification with diverse synthetic exemplars and counter-exemplars
+### by _ _ 
+### ()
+
+\
+### Paper:
+\
+\
 ## Declarative Reasoning on Explanations Using Constraint Logic Programming
+### by _ _ 
+### ()
+
+\
+### Paper:
+\
+\
 ## The Explanation Dialogues: Understanding How Legal Experts Reason About XAI Methods
+### by _ _ 
+### ()
+
+\
+### Paper:
+\
+\
 ## Careful Explanations: A Feminist Perspective on XAI
+### by _ _ 
+### ()
+
+\
+### Paper:
+\
+\
 ## Constructing Meaningful Explanations: Logic-based Approaches
+### by _ _ 
+### ()
+
+\
+### Paper:
+\
+\
 ## Causal Perception
+### by _ _ 
+### ()
+
+\
+### Paper:
+\
+\
 ## A Causal Framework for Evaluating Deferring Systems
+### by _ _ 
+### ()
+
+\
+### Paper:
+\
+\
 ## Uncovering Algorithmic Discrimination: An Opportunity to Revisit the Comparator
+### by _ _ 
+### ()
+
+\
+### Paper:
+\
+\
 ## Enhancing Fairness through Reweighting: A Path to Attain the Sufficiency Rule
+### by _ _ 
+### ()
+
+\
+### Paper:
+\
+\
 ## Link recommendations: Their impact on network structure and minorities
+### by _ _ 
+### ()
+
+\
+### Paper:
+\
+\
 ## Algorithmic Tools in Public Employment Services: Towards a Jobseeker-Centric Perspective
+### by _ _ 
+### ()
+
+\
+### Paper:
+\
+\
 ## Bias in Hate Speech and Toxicity Detection
+### by _ _ 
+### ()
+
+\
+### Paper:
+\
+\
 ## Explanation Shift: Detecting distribution shifts on tabular data via the explanation space
+### by _ _ 
+### ()
+
+\
+### Paper:
+\
+\
 ## Fairness in Agreement With European Values
+### by _ _ 
+### ()
+
+\
+### Paper:
+\
+\
 ## Studying bias in visual features through the lens of optimal transport
+### by _ _ 
+### ()
+
+\
+### Paper:
+\
+\
 ## Beyond Demographic Parity: Redefining Equal Treatment
+### by _ _ 
+### ()
+
+\
+### Paper:
+\
+\
 ## The Initial Screening Order Problem
+### by _ _ 
+### ()
+
+\
+### Paper:
+\
+\
 ## Supporting Online Toxicity Detection with Knowledge Graphs
+### by _ _ 
+### ()
+
+\
+### Paper:
+\
+\
 ## Counterfactual Explanation for Regression via Disentanglement in Latent Space
+### by _ _ 
+### ()
+
+\
+### Paper:
+\
+\
 ## Monitoring Model Deterioration with Explainable Uncertainty Estimation via Non-parametric Bootstrap
+### by _ _ 
+### ()
+
+\
+### Paper:
+\
+\
 ## How to Data in Datathons
+### by _ _ 
+### ()
+
+\
+### Paper:
+\
+\
 ## Estimating Ground Truth in a Low-labelled Data Regime: A Study of Racism Detection in Spanish
+### by _ _ 
+### ()
+
+\
+### Paper:
+\
+\
 ## Affinity Clustering Framework for Data Debiasing Using Pairwise Distribution Discrepancy
+### by _ _ 
+### ()
+
+\
+### Paper:
+\
+\
 ## The Role of Large Language Models in the Recognition of Territorial Sovereignty: An Analysis of the Construction of Legitimacy
+### by _ _ 
+### ()
+
+\
+### Paper:
+\
+\
 ## Context matters for fairness -- a case study on the effect of spatial distribution shifts
 
