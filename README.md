@@ -102,17 +102,17 @@ There is a fast-growing literature in addressing the fairness of AI models (fair
 
 ## Domain Adaptive Decision Trees: Implications for Accuracy and Fairness
 #### by _Jose M. Alvarez, Kristen M. Scott, Bettina Berendt, Salvatore Ruggieri_ 
-#### ()
-
+#### (ACM Conference on Fairness, Accountability, and Transparency 2023)
+In uses of pre-trained machine learning models, it is a known issue that the target population in which the model is being deployed may not have been reflected in the source population with which the model was trained. This can result in a biased model when deployed, leading to a reduction in model performance. One risk is that, as the population changes, certain demographic groups will be under-served or otherwise disadvantaged by the model, even as they become more represented in the target population. The field of domain adaptation proposes techniques for a situation where label data for the target population does not exist, but some information about the target distribution does exist. In this paper we contribute to the domain adaptation literature by introducing domain-adaptive decision trees (DADT). We focus on decision trees given their growing popularity due to their interpretability and performance relative to other more complex models. With DADT we aim to improve the accuracy of models trained in a source domain (or training data) that differs from the target domain (or test data). We propose an in-processing step that adjusts the information gain split criterion with outside information corresponding to the distribution of the target population. We demonstrate DADT on real data and find that it improves accuracy over a standard decision tree when testing in a shifted target population. We also study the change in fairness under demographic parity and equal opportunity. Results show an improvement in fairness with the use of DADT.
 \
-[Paper]()
+[Paper](https://github.com/nobias-project/Publications/blob/main/alvarez2023domain.pdf)
 
 ## Counterfactual Situation Testing: Uncovering Discrimination under Fairness given the Difference
 #### by _Salvatore Ruggieri, Jose Manuel Alvarez_ 
-#### ()
-
+#### (ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization 2023)
+We present counterfactual situation testing (CST), a causal data mining framework for detecting discrimination in classifiers. CST aims to answer in an actionable and meaningful way the intuitive question "what would have been the model outcome had the individual, or complainant, been of a different protected status?" It extends the legally-grounded situation testing of Thanh et al. (2011) by operationalizing the notion of fairness given the difference using counterfactual reasoning. For any complainant, we find and compare similar protected and non-protected instances in the dataset used by the classifier to construct a control and test group, where a difference between the decision outcomes of the two groups implies potential individual discrimination. Unlike situation testing, which builds both groups around the complainant, we build the test group on the complainant's counterfactual generated using causal knowledge. The counterfactual is intended to reflect how the protected attribute when changed affects the seemingly neutral attributes used by the classifier, which is taken for granted in many frameworks for discrimination. Under CST, we compare similar individuals within each group but dissimilar individuals across both groups due to the possible difference between the complainant and its counterfactual. Evaluating our framework on two classification scenarios, we show that it uncovers a greater number of cases than situation testing, even when the classifier satisfies the counterfactual fairness condition of Kusner et al. (2017).
 \
-[Paper]()
+[Paper](https://github.com/nobias-project/Publications/blob/main/alvarez2023counterfactual.pdf)
 
 ## Causal Fairness-Guided Dataset Reweighting using Neural Networks
 #### by _Xuan Zhao, Klaus Broelemann, Salvatore Ruggieri, Gjergji Kasneci_ 
