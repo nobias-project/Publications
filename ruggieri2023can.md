@@ -1,0 +1,6 @@
+## Can We Trust Fair-AI?
+#### by _Salvatore Ruggieri, Jose M. Alvarez, Andrea Pugnana, Laura State, Franco Turini_ 
+#### (Senior Member Presentation: Summary Papers, AAAI Conference on Artificial Intelligence 2023)
+There is a fast-growing literature in addressing the fairness of AI models (fair-AI), with a continuous stream of new conceptual frameworks, methods, and tools. How much can we trust them? How much do they actually impact society? We take a critical focus on fair-AI and survey issues, simplifications, and mistakes that researchers and practitioners often underestimate, which in turn can undermine the trust on fair-AI and limit its contribution to society. In particular, we discuss the hyper-focus on fairness metrics and on optimizing their average performances. We instantiate this observation by discussing the Yule's effect of fair-AI tools: being fair on average does not imply being fair in contexts that matter. We conclude that the use of fair-AI methods should be complemented with the design, development, and verification practices that are commonly summarized under the umbrella of trustworthy AI.
+\
+[Paper](https://github.com/nobias-project/Publications/blob/main/ruggieri2023can.pdf)
