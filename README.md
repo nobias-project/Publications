@@ -81,17 +81,17 @@ Turnover intention is an employee’s reported willingness to leave her organiza
 
 ## Fairness Implications of Encoding Protected Categorical Attributes
 #### by _Carlos Mougan, Jose Manuel Alvarez, Salvatore Ruggieri, Steffen Staab_ 
-#### ()
-
+#### (AAAI/ACM Conference on AI, Ethics, and Society 2023)
+Past research has demonstrated that the explicit use of protected attributes in machine learning can improve both performance and fairness. Many machine learning algorithms, however, cannot directly process categorical attributes, such as country of birth or ethnicity. Because protected attributes frequently are categorical, they must be encoded as features that can be input to a chosen machine learning algorithm, e.g. support vector machines, gradient boosting decision trees or linear models. Thereby, encoding methods influence how and what the machine learning algorithm will learn, affecting model performance and fairness. This work compares the accuracy and fairness implications of the two most well-known encoding methods: one-hot encoding and target encoding. We distinguish between two types of induced bias that may arise from these encoding methods and may lead to unfair models. The first type, irreducible bias, is due to direct group category discrimination and the second type, reducible bias, is due to the large variance in statistically underrepresented groups. We investigate the interaction between categorical encodings and target encoding regularization methods that reduce unfairness. Furthermore, we consider the problem of intersectional unfairness that may arise when machine learning best practices improve performance measures by encoding several categorical attributes into a high-cardinality feature.
 \
-[Paper]()
+[Paper](https://github.com/nobias-project/Publications/blob/main/mougan2023fairness.pdf)
 
 ## Policy advice and best practices on bias and fairness in AI
 #### by _Jose M. Alvarez, Alejandra Bringas Colmenarejo, Alaa Elobaid, Simone Fabbrizzi, Miriam Fahimi, Antonio Ferrara, Siamak Ghodsi, Carlos Mougan, Ioanna Papageorgiou, Paula Reyero, Mayra Russo, Kristen M. Scott, Laura State, Xuan Zhao, Salvatore Ruggieri_ 
-#### ()
-
+#### (Ethics and Information Technology, Volume 26, Number 31, 2024)
+The literature addressing bias and fairness in AI models (fair-AI) is growing at a fast pace, making it difficult for novel researchers and practitioners to have a bird’s-eye view picture of the field. In particular, many policy initiatives, standards, and best practices in fair-AI have been proposed for setting principles, procedures, and knowledge bases to guide and operationalize the management of bias and fairness. The first objective of this paper is to concisely survey the state-of-the-art of fair-AI methods and resources, and the main policies on bias in AI, with the aim of providing such a bird’s-eye guidance for both researchers and practitioners. The second objective of the paper is to contribute to the policy advice and best practices state-of-the-art by leveraging from the results of the NoBIAS research project. We present and discuss a few relevant topics organized around the NoBIAS architecture, which is made up of a Legal Layer, focusing on the European Union context, and a Bias Management Layer, focusing on understanding, mitigating, and accounting for bias.
 \
-[Paper]()
+[Paper](https://github.com/nobias-project/Publications/blob/main/alvarez2024policy.pdf)
 
 ## Can We Trust Fair-AI?
 #### by _Salvatore Ruggieri, Jose M. Alvarez, Andrea Pugnana, Laura State, Franco Turini_ 
