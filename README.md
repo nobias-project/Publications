@@ -64,28 +64,28 @@ Our world is increasingly shaped by Artificial Intelligence systems, from search
 [Paper]()
 
 ## Explainability in Practice: Estimating Electrification Rates from Mobile Phone Data in Senegal
-#### by _Laura State; Hadrien Salat; Stefania Rubrichi; Zbigniew Smoreda_ 
+#### by _Laura State, Hadrien Salat, Stefania Rubrichi, Zbigniew Smoreda_ 
 #### ()
 
 \
 [Paper]()
 
 ## Predicting and explaining employee turnover intention
-#### by _Matilde Lazzari; Jose M. Alvarez; Salvatore Ruggieri_ 
+#### by _Matilde Lazzari, Jose M. Alvarez, Salvatore Ruggieri_ 
 #### ()
 
 \
 [Paper]()
 
 ## Fairness Implications of Encoding Protected Categorical Attributes
-#### by _Carlos Mougan; Jose Manuel Alvarez; Salvatore Ruggieri; Steffen Staab_ 
+#### by _Carlos Mougan, Jose Manuel Alvarez, Salvatore Ruggieri, Steffen Staab_ 
 #### ()
 
 \
 [Paper]()
 
 ## Policy advice and best practices on bias and fairness in AI
-#### by _Jose M. Alvarez; Alejandra Bringas Colmenarejo; Alaa Elobaid; Simone Fabbrizzi; Miriam Fahimi; Antonio Ferrara; Siamak Ghodsi; Carlos Mougan; Ioanna Papageorgiou; Paula Reyero; Mayra Russo; Kristen M. Scott; Laura State; Xuan Zhao; Salvatore Ruggieri_ 
+#### by _Jose M. Alvarez, Alejandra Bringas Colmenarejo, Alaa Elobaid, Simone Fabbrizzi, Miriam Fahimi, Antonio Ferrara, Siamak Ghodsi, Carlos Mougan, Ioanna Papageorgiou, Paula Reyero, Mayra Russo, Kristen M. Scott, Laura State, Xuan Zhao, Salvatore Ruggieri_ 
 #### ()
 
 \
@@ -99,21 +99,21 @@ Our world is increasingly shaped by Artificial Intelligence systems, from search
 [Paper]()
 
 ## Domain Adaptive Decision Trees: Implications for Accuracy and Fairness
-#### by _ _ 
+#### by _Jose M. Alvarez, Kristen M. Scott, Bettina Berendt, Salvatore Ruggieri_ 
 #### ()
 
 \
 [Paper]()
 
 ## Counterfactual Situation Testing: Uncovering Discrimination under Fairness given the Difference
-#### by _ _ 
+#### by _Salvatore Ruggieri, Jose Manuel Alvarez_ 
 #### ()
 
 \
 [Paper]()
 
 ## Causal Fairness-Guided Dataset Reweighting using Neural Networks
-#### by _ _ 
+#### by _Xuan Zhao, Klaus Broelemann, Salvatore Ruggieri, Gjergji Kasneci_ 
 #### ()
 
 \
