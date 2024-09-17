@@ -23,10 +23,10 @@ Explainable AI constitutes a fundamental step towards establishing fairness and 
 
 ## Measuring Shifts in Attitudes Towards COVID-19 Measures in Belgium
 #### by _Kristen Scott, Pieter Delobelle, Bettina Berendt_ 
-#### ()
-
+#### (Computational Linguistics in the Netherlands Journal, Vol. 11, 2021)
+With the COVID-19 pandemic and subsequent measures in full swing, people voiced their opinions of these measures on social media. Although it remains an open problem to correctly interpret these voices and translate this to public policy, we work towards this by tracking support for corona-related measures in Belgium, a densely-populated trilingual country in Western Europe. To this end, we classify seven months’ worth of Belgian COVID-related tweets using multilingual BERT and a manually labeled training set. The tweets are classified by which measure they refer to as well as by their stated opinion towards the curfew measure, for which we introduce a custom classification scheme (too strict, ok, too loose). Using this classification, we examine the change in topics discussed and views expressed over time and in reference to dates of related events such as the implementation of new measures or COVID-19 related announcements in the media. With these promising results, our contributions include (i) multiple multilingual BERT models trained on manually labeled data accompanied by (ii) historical analysis of the support for the curfew measure on Twitter and (iii) a thorough analysis of limitations and risks, together with best practices and a reference code book.
 \
-[Paper]()
+[Paper](https://github.com/nobias-project/Publications/blob/main/scott2021measuring.pdf)
 
 ## A survey on bias in visual datasets
 #### by _Simone Fabbrizzi, Symeon Papadopoulos, Eirini Ntoutsi, Ioannis Kompatsiaris_ 
