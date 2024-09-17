@@ -116,45 +116,45 @@ We present counterfactual situation testing (CST), a causal data mining framewor
 
 ## Causal Fairness-Guided Dataset Reweighting using Neural Networks
 #### by _Xuan Zhao, Klaus Broelemann, Salvatore Ruggieri, Gjergji Kasneci_ 
-#### ()
-
+#### (IEEE International Conference on Big Data 2023)
+The importance of achieving fairness in machine learning models cannot be overstated. Recent research has pointed out that fairness should be examined from a causal perspective, and several fairness notions based on the on Pearl’s causal framework have been proposed. In this paper, we construct a reweighting scheme of datasets to address causal fairness. Our approach aims at mitigating bias by considering the causal relationships among variables and incorporating them into the reweighting process. The proposed method adopts two neural networks, whose structures are intentionally used to reflect the structures of a causal graph and of an interventional graph. The two neural networks can approximate the causal model of the data, and the causal model of interventions. Furthermore, reweighting guided by a discriminator is applied to achieve various fairness notions. Experiments on real-world datasets show that our method can achieve causal fairness on the data while remaining close to the original data for downstream tasks.
 \
-[Paper]()
+[Paper](https://github.com/nobias-project/Publications/blob/main/zhao2023causal.pdf)
 
 ## Reason to Explain: Interactive Contrastive Explanations (REASONX)
-#### by _ _ 
-#### ()
-
+#### by _Laura State, Salvatore Ruggieri, Franco Turini_ 
+#### (World Conference on eXplainable Artificial Intelligence 2023)
+Many high-performing machine learning models are not interpretable. As they are increasingly used in decision scenarios that can critically affect individuals, it is necessary to develop tools to better understand their outputs. Popular explanation methods include contrastive explanations. However, they suffer several shortcomings, among others an insufficient incorporation of background knowledge, and a lack of interactivity. While (dialogue-like) interactivity is important to better communicate an explanation, background knowledge has the potential to significantly improve their quality, e.g., by adapting the explanation to the needs of the end-user. To close this gap, we present REASONX, an explanation tool based on Constraint Logic Programming (CLP). REASONX provides interactive contrastive explanations that can be augmented by background knowledge, and allows to operate under a setting of under-specified information, leading to increased flexibility in the provided explanations. REASONX computes factual and constrative decision rules, as well as closest constrative examples. It provides explanations for decision trees, which can be the ML models under analysis, or global/local surrogate models of any ML model. While the core part of REASONX is built on CLP, we also provide a program layer that allows to compute the explanations via Python, making the tool accessible to a wider audience. We illustrate the capability of REASONX on a synthetic data set, and on a a well-developed example in the credit domain. In both cases, we can show how REASONX can be flexibly used and tailored to the needs of the user.
 \
-[Paper]()
+[Paper](https://github.com/nobias-project/Publications/blob/main/state2023reason.pdf)
 
 ## Explaining short text classification with diverse synthetic exemplars and counter-exemplars
-#### by _ _ 
-#### ()
-
+#### by _Orestis Lampridis, Laura State, Riccardo Guidotti, Salvatore Ruggieri_ 
+#### (Machine Learning, Volume 112, Issue 11, 2022)
+We present xspells, a model-agnostic local approach for explaining the decisions of black box models in classification of short texts. The explanations provided consist of a set of exemplar sentences and a set of counter-exemplar sentences. The former are examples classified by the black box with the same label as the text to explain. The latter are examples classified with a different label (a form of counter-factuals). Both are close in meaning to the text to explain, and both are meaningful sentences – albeit they are synthetically generated. xspells generates neighbors of the text to explain in a latent space using Variational Autoencoders for encoding text and decoding latent instances. A decision tree is learned from randomly generated neighbors, and used to drive the selection of the exemplars and counter-exemplars. Moreover, diversity of counter-exemplars is modeled as an optimization problem, solved by a greedy algorithm with theoretical guarantee. We report experiments on three datasets showing that xspells outperforms the well-known lime method in terms of quality of explanations, fidelity, diversity, and usefulness, and that is comparable to it in terms of stability.
 \
-[Paper]()
+[Paper](https://github.com/nobias-project/Publications/blob/main/lampridis2022explaining.pdf)
 
 ## Declarative Reasoning on Explanations Using Constraint Logic Programming
-#### by _ _ 
-#### ()
-
+#### by _Laura State, Salvatore Ruggieri, Franco Turini_ 
+#### (European Conference on Logics in Artificial Intelligence 2023)
+Explaining opaque Machine Learning (ML) models is an increasingly relevant problem. Current explanation in AI (XAI) methods suffer several shortcomings, among others an insufficient incorporation of background knowledge, and a lack of abstraction and interactivity with the user. We propose REASONX, an explanation method based on Constraint Logic Programming (CLP). REASONX can provide declarative, interactive explanations for decision trees, which can be the ML models under analysis or global/local surrogate models of any black-box model. Users can express background or common sense knowledge using linear constraints and MILP optimization over features of factual and contrastive instances, and interact with the answer constraints at different levels of abstraction through constraint projection. We present here the architecture of REASONX, which consists of a Python layer, closer to the user, and a CLP layer. REASONX's core execution engine is a Prolog meta-program with declarative semantics in terms of logic theories.
 \
-[Paper]()
+[Paper](https://github.com/nobias-project/Publications/blob/main/state2023declarative.pdf)
 
 ## The Explanation Dialogues: Understanding How Legal Experts Reason About XAI Methods
-#### by _ _ 
-#### ()
-
+#### by _Laura State, Alejandra Bringas Colmenarejo, Andrea Beretta, Salvatore Ruggieri, Franco Turini1 and Stephanie Law_
+#### (European Workshop on Algorithmic Fairness 2023)
+The Explanation Dialogues project is an expert focus study that aims to uncover expectations, reasoning, and rules of legal experts and practitioners towards explainable artificial intelligence (XAI). We examine legal perceptions and disputes that arise in a fictional scenario that resembles a daily life situation - a bank’s use of an automated decision-making (ADM) system to decide on credit allocation to individuals. Through this simulation, the study aims to provide insights into the legal value and validity of explanations of ADMs, identify potential gaps and issues that may arise in the context of compliance with European legislation, and provide guidance on how to address these shortcomings.
 \
-[Paper]()
+[Paper](https://github.com/nobias-project/Publications/blob/main/state2023explanation.pdf)
 
 ## Careful Explanations: A Feminist Perspective on XAI
-#### by _ _ 
-#### ()
-
+#### by _Laura State, Miriam Fahimi_ 
+#### (European Workshop on Algorithmic Fairness 2023)
+Explainable artificial intelligence (XAI) is a rapidly growing research field that has received a lot of attention during the last few years. An important goal of the field is to use its methods to detect (social) bias and discrimination. Despite these positive intentions, aspects of XAI can be in conflict with feminist approaches and values. Therefore, our conceptual contribution brings forward both a careful assessment of current XAI methods, as well as visions for carefully doing XAI from a feminist perspective. We conclude with a discussion on the possibilities for caring XAI, and the challenges that might lie along the way.
 \
-[Paper]()
+[Paper](https://github.com/nobias-project/Publications/blob/main/state2023careful.pdf)
 
 ## Constructing Meaningful Explanations: Logic-based Approaches
 #### by _ _ 
