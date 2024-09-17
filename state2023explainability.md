@@ -1,0 +1,6 @@
+## Explainability in Practice: Estimating Electrification Rates from Mobile Phone Data in Senegal
+#### by _Laura State, Hadrien Salat, Stefania Rubrichi, Zbigniew Smoreda_ 
+#### (World Conference on eXplainable Artificial Intelligence, xAI 2023)
+Explainable artificial intelligence (XAI) provides explanations for not interpretable machine learning (ML) models. While many technical approaches exist, there is a lack of validation of these techniques on real-world datasets. In this work, we present a use-case of XAI: an ML model which is trained to estimate electrification rates based on mobile phone data in Senegal. The data originate from the Data for Development challenge by Orange in 2014/15. We apply two model-agnostic, local explanation techniques and find that while the model can be verified, it is biased with respect to the population density. We conclude our paper by pointing to the two main challenges we encountered during our work: data processing and model design that might be restricted by currently available XAI methods, and the importance of domain knowledge to interpret explanations.
+\
+[Paper](https://github.com/nobias-project/Publications/blob/main/state2023explainability.pdf)
