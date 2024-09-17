@@ -46,17 +46,17 @@ In this paper we use the information received from this feedback loop to optimiz
 
 ## Semantic Web technologies and bias in artificial intelligence: A systematic literature review
 #### by _Paula Reyero Lobo, Enrico Daga, Harith Alani, Miriam Fernandez_ 
-#### ()
-
+#### (Semantic Web, Volume 14, Number 4, 2023)
+Bias in Artificial Intelligence (AI) is a critical and timely issue due to its sociological, economic and legal impact, as decisions made by biased algorithms could lead to unfair treatment of specific individuals or groups. Multiple surveys have emerged to provide a multidisciplinary view of bias or to review bias in specific areas such as social sciences, business research, criminal justice, or data mining. Given the ability of Semantic Web (SW) technologies to support multiple AI systems, we review the extent to which semantics can be a “tool” to address bias in different algorithmic scenarios. We provide an in-depth categorisation and analysis of bias assessment, representation, and mitigation approaches that use SW technologies. We discuss their potential in dealing with issues such as representing disparities of specific demographics or reducing data drifts, sparsity, and missing values. We find research works on AI bias that apply semantics mainly in information retrieval, recommendation and natural language processing applications and argue through multiple use cases that semantics can help deal with technical, sociological, and psychological challenges.
 \
-[Paper]()
+[Paper](https://github.com/nobias-project/Publications/blob/main/lobo2023semantic.pdf)
 
 ## Time to Question if We Should: Data-Driven and Algorithmic Tools in Public Employment Services
 #### by _Pieter Delobelle, Kristen M. Scott, Sonja Mei Wang, Milagros Miceli, David Hartmann, Tianling Yang, Elena Murasso, Karolina Sztandar-Sztanderska, Bettina Berendt_ 
-#### ()
-
+#### (International workshop on Fair, Effective And Sustainable Talent management using data science 2022)
+Algorithmic and data-driven systems have been introduced to assist Public Employment Services (PES) in various countries. However , their deployment has been heavily criticized. This paper is based on a workshop organized by a distributed team of researchers in AI ethics and adjacent fields, which brought together academics, system developers , representatives from the public sector, civil-society organizations, and participants from industry. We report on the workshop and analyze three salient discussion topics, organized around our research questions: (1) the challenge of representing individuals with data, (2) the role of job counsellors and data-driven systems in PES, and (3) questions around the interactions between job seeker, counsellor, and system. Finally, we consider lessons learned from the workshop and describe plans aiming at involving a multiplicity of stakeholders in a co-design process.
 \
-[Paper]()
+[Paper](https://github.com/nobias-project/Publications/blob/main/delobelle2022time.pdf)
 
 ## Data Privacy Issues in Big Biomedical Data
 #### by _Maria-Esther Vidal, Mayra Russo, Philipp Rohde_ 
