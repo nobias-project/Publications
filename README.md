@@ -9,10 +9,10 @@ Regression problems have been widely studied in machine learning literature resu
 
 ## Logic programming for XAI: A technical perspective
 #### by _Laura State_ 
-#### ()
+#### (1st Workshop on Machine Ethics and Explainability - The Role of Logic Programming, 2021)
 Our world is increasingly shaped by Artificial Intelligence systems, from search engines over automated hiring algorithms to self-driving cars. Being also used in high-stake decisions, their impact on the life of individuals is huge. Thus it becomes exceedingly important to sceptically review their limitations. One alarming problem is their uptake and reinforcement of existing social biases, as found in many different domains (criminal justice, facial recognition, credit scoring etc). It is complemented by the inherent opaqueness of the most accurate AI systems, making it impossible to understand details of their internal workings. The field of Explainable Artificial Intelligence is trying to address these problems. However, there are several challenges in the field, and we will start this work by pointing them out. We put forward a set of technical pathways, drawing from Logic Programming. Specifically, we propose using Constraint Logic Programming to construct explanations that incorporate prior knowledge, as well as Meta-Reasoning to track model and explanation changes over time.
 \
-[Paper]()
+[Paper](https://github.com/nobias-project/Publications/blob/main/state2021logic.pdf)
 
 ## Desiderata for Explainable AI in statistical production systems of the European Central Bank
 #### by _Carlos Mougan, Georgios Kanellos, Thomas Gottron_ 
