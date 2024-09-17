@@ -58,13 +58,6 @@ Algorithmic and data-driven systems have been introduced to assist Public Employ
 \
 [Paper](https://github.com/nobias-project/Publications/blob/main/delobelle2022time.pdf)
 
-## Data Privacy Issues in Big Biomedical Data
-#### by _Maria-Esther Vidal, Mayra Russo, Philipp Rohde_ 
-#### ()
-
-\
-[Paper]()
-
 ## Explainability in Practice: Estimating Electrification Rates from Mobile Phone Data in Senegal
 #### by _Laura State, Hadrien Salat, Stefania Rubrichi, Zbigniew Smoreda_ 
 #### ()
