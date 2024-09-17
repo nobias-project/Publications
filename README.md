@@ -30,17 +30,19 @@ With the COVID-19 pandemic and subsequent measures in full swing, people voiced 
 
 ## A survey on bias in visual datasets
 #### by _Simone Fabbrizzi, Symeon Papadopoulos, Eirini Ntoutsi, Ioannis Kompatsiaris_ 
-#### ()
-
+#### (Computer Vision and Image Understanding, Volume 223, 2022)
+Computer Vision (CV) has achieved remarkable results, outperforming humans in several tasks. Nonetheless, it may result in significant discrimination if not handled properly. Indeed, CV systems highly depend on training datasets and can learn and amplify biases that such datasets may carry. Thus, the problem of understanding and discovering bias in visual datasets is of utmost importance; yet, it has not been studied in a systematic way to date. Hence, this work aims to: (i) describe the different kinds of bias that may manifest in visual datasets; (ii) review the literature on methods for bias discovery and quantification in visual datasets; (iii) discuss existing attempts to collect visual datasets in a bias-aware manner. A key conclusion of our study is that the problem of bias discovery and quantification in visual datasets is still open, and there is room for improvement in terms of both methods and the range of biases that can be addressed. Moreover, there is no such thing as a bias-free dataset, so scientists and practitioners must become aware of the biases in their datasets and make them explicit. To this end, we propose a checklist to spot different types of bias during visual dataset collection.
 \
-[Paper]()
+[Paper](https://github.com/nobias-project/Publications/blob/main/fabbrizzi2022survey.pdf)
 
 ## Introducing explainable supervised machine learning into interactive feedback loops for statistical production system
 #### by _Carlos Mougan, George Kanellos, Johannes Micheler, Jose Martinez, Thomas Gottron_ 
-#### ()
-
+#### (IFC-Bank of Italy Workshop on “Data Science in Central Banking: Applications and tools” 2022)
+Statistical production systems cover multiple steps from the collection, aggregation, and integration of data to tasks like data quality assurance and dissemination. While the context of data quality assurance is one of the most promising fields for applying machine learning, the lack of curated and labeled training data is often a limiting factor.
+The statistical production system for the Centralised Securities Database features an interactive feedback loop between data collected by the European Central Bank and data quality assurance performed by data quality managers at National Central Banks. The quality assurance feedback loop is based on a set of rule-based checks for raising exceptions, upon which the user either confirms the data or corrects an actual error.
+In this paper we use the information received from this feedback loop to optimize the exceptions presented to the National Central Banks thereby improving the quality of exceptions generated and the time consumed on the system by the users authenticating those exceptions. For this approach we make use of explainable supervised machine learning to (a) identify the types of exceptions and (b) to prioritize which exceptions are more likely to require an intervention or correction by the NCBs. Furthermore, we provide an explainable AI taxonomy aiming to identify the different explainable AI needs that arose during the project.
 \
-[Paper]()
+[Paper](https://github.com/nobias-project/Publications/blob/main/mougan2022introducing.pdf)
 
 ## Semantic Web technologies and bias in artificial intelligence: A systematic literature review
 #### by _Paula Reyero Lobo, Enrico Daga, Harith Alani, Miriam Fernandez_ 
