@@ -8,91 +8,91 @@ Regression problems have been widely studied in machine learning literature resu
 [Paper](https://github.com/nobias-project/Publications/blob/main/mougan2021quantile.pdf) 
 
 ## Logic programming for XAI: A technical perspective
-#### by _ _ 
+#### by _Laura State_ 
 #### ()
-
+Our world is increasingly shaped by Artificial Intelligence systems, from search engines over automated hiring algorithms to self-driving cars. Being also used in high-stake decisions, their impact on the life of individuals is huge. Thus it becomes exceedingly important to sceptically review their limitations. One alarming problem is their uptake and reinforcement of existing social biases, as found in many different domains (criminal justice, facial recognition, credit scoring etc). It is complemented by the inherent opaqueness of the most accurate AI systems, making it impossible to understand details of their internal workings. The field of Explainable Artificial Intelligence is trying to address these problems. However, there are several challenges in the field, and we will start this work by pointing them out. We put forward a set of technical pathways, drawing from Logic Programming. Specifically, we propose using Constraint Logic Programming to construct explanations that incorporate prior knowledge, as well as Meta-Reasoning to track model and explanation changes over time.
 \
 [Paper]()
 
 ## Desiderata for Explainable AI in statistical production systems of the European Central Bank
-#### by _ _ 
+#### by _Carlos Mougan, Georgios Kanellos, Thomas Gottron_ 
 #### ()
 
 \
 [Paper]()
 
 ## Measuring Shifts in Attitudes Towards COVID-19 Measures in Belgium
-#### by _ _ 
+#### by _Kristen Scott, Pieter Delobelle, Bettina Berendt_ 
 #### ()
 
 \
 [Paper]()
 
 ## A survey on bias in visual datasets
-#### by _ _ 
+#### by _Simone Fabbrizzi, Symeon Papadopoulos, Eirini Ntoutsi, Ioannis Kompatsiaris_ 
 #### ()
 
 \
 [Paper]()
 
 ## Introducing explainable supervised machine learning into interactive feedback loops for statistical production system
-#### by _ _ 
+#### by _Carlos Mougan, George Kanellos, Johannes Micheler, Jose Martinez, Thomas Gottron_ 
 #### ()
 
 \
 [Paper]()
 
 ## Semantic Web technologies and bias in artificial intelligence: A systematic literature review
-#### by _ _ 
+#### by _Paula Reyero Lobo, Enrico Daga, Harith Alani, Miriam Fernandez_ 
 #### ()
 
 \
 [Paper]()
 
 ## Time to Question if We Should: Data-Driven and Algorithmic Tools in Public Employment Services
-#### by _ _ 
+#### by _Pieter Delobelle, Kristen M. Scott, Sonja Mei Wang, Milagros Miceli, David Hartmann, Tianling Yang, Elena Murasso, Karolina Sztandar-Sztanderska, Bettina Berendt_ 
 #### ()
 
 \
 [Paper]()
 
 ## Data Privacy Issues in Big Biomedical Data
-#### by _ _ 
+#### by _Maria-Esther Vidal, Mayra Russo, Philipp Rohde_ 
 #### ()
 
 \
 [Paper]()
 
 ## Explainability in Practice: Estimating Electrification Rates from Mobile Phone Data in Senegal
-#### by _ _ 
+#### by _Laura State; Hadrien Salat; Stefania Rubrichi; Zbigniew Smoreda_ 
 #### ()
 
 \
 [Paper]()
 
 ## Predicting and explaining employee turnover intention
-#### by _ _ 
+#### by _Matilde Lazzari; Jose M. Alvarez; Salvatore Ruggieri_ 
 #### ()
 
 \
 [Paper]()
 
 ## Fairness Implications of Encoding Protected Categorical Attributes
-#### by _ _ 
+#### by _Carlos Mougan; Jose Manuel Alvarez; Salvatore Ruggieri; Steffen Staab_ 
 #### ()
 
 \
 [Paper]()
 
 ## Policy advice and best practices on bias and fairness in AI
-#### by _ _ 
+#### by _Jose M. Alvarez; Alejandra Bringas Colmenarejo; Alaa Elobaid; Simone Fabbrizzi; Miriam Fahimi; Antonio Ferrara; Siamak Ghodsi; Carlos Mougan; Ioanna Papageorgiou; Paula Reyero; Mayra Russo; Kristen M. Scott; Laura State; Xuan Zhao; Salvatore Ruggieri_ 
 #### ()
 
 \
 [Paper]()
 
 ## Can We Trust Fair-AI?
-#### by _ _ 
+#### by _Salvatore Ruggieri, Jose M. Alvarez, Andrea Pugnana, Laura State, Franco Turini_ 
 #### ()
 
 \
