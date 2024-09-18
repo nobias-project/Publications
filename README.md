@@ -214,46 +214,46 @@ Many Artificial Intelligence (AI) systems rely on finding patterns in large data
 [Paper](https://github.com/nobias-project/Publications/blob/main/lobo2022bias.pdf)
 
 ## Explanation Shift: Detecting distribution shifts on tabular data via the explanation space
-#### by _ _ 
-#### ()
-
+#### by _Carlos Mougan, Klaus Broelemann, Gjergji Kasneci, Thanassis Tiropanis, Steffen Staab_ 
+#### (Workshop on Distribution Shifts: Connecting Methods and Applications at the Conference on Neural Information Processing Systems 2022)
+As input data distributions evolve, the predictive performance of machine learning models tends to deteriorate. In the past, predictive performance was considered the key indicator to monitor. However, explanation aspects have come to attention within the last years. In this work, we investigate how model predictive performance and model explanation characteristics are affected under distribution shifts and how these key indicators are related to each other for tabular data. We find that the modeling of explanation shifts can be a better indicator for the detection of predictive performance changes than state-of-the-art techniques based on representations of distribution shifts. We provide a mathematical analysis of different types of distribution shifts as well as synthetic experimental examples.
 \
-[Paper]()
+[Paper](https://github.com/nobias-project/Publications/blob/main/mougan2022explanation.pdf)
 
-## Fairness in Agreement With European Values
-#### by _ _ 
-#### ()
-
+## Fairness in Agreement With European Values: An Interdisciplinary Perspective on AI Regulation
+#### by _Alejandra Bringas Colmenarejo, Luca Nannini, Alisa Rieger, Kristen M. Scott, Xuan Zhao, Gourab K. Patro, Gjergji Kasneci, Katharina Kinder-Kurlanda_ 
+#### (AAAI/ACM Conference on AI, Ethics, and Society 2022)
+With increasing digitalization, Artificial Intelligence (AI) is becoming ubiquitous. AI-based systems to identify, optimize, automate, and scale solutions to complex economic and societal problems are being proposed and implemented. This has motivated regulation efforts, including the Proposal of an EU AI Act. This interdisciplinary position paper considers various concerns surrounding fairness and discrimination in AI, and discusses how AI regulations address them, focusing on (but not limited to) the Proposal. We first look at AI and fairness through the lenses of law, (AI) industry, sociotechnology, and (moral) philosophy, and present various perspectives. Then, we map these perspectives along three axes of interests: (i) Standardization vs. Localization, (ii) Utilitarianism vs. Egalitarianism, and (iii) Consequential vs. Deontological ethics which leads us to identify a pattern of common arguments and tensions between these axes. Positioning the discussion within the axes of interest and with a focus on reconciling the key tensions, we identify and propose the roles AI Regulation should take to make the endeavor of the AI Act a success in terms of AI fairness concerns.
 \
-[Paper]()
+[Paper](https://github.com/nobias-project/Publications/blob/main/colmenarejo2022fairness.pdf)
 
 ## Studying bias in visual features through the lens of optimal transport
-#### by _ _ 
-#### ()
-
+#### by _Simone Fabbrizzi, Xuan Zhao, Emmanouil Krasanakis, Symeon Papadopoulos, Eirini Ntoutsi_ 
+#### (Data Mining and Knowledge Discovery, Volume 38, 2024)
+Computer vision systems are employed in a variety of high-impact applications. However, making them trustworthy requires methods for the detection of potential biases in their training data, before models learn to harm already disadvantaged groups in downstream applications. Image data are typically represented via extracted features, which can be hand-crafted or pre-trained neural network embeddings. In this work, we introduce a framework for bias discovery given such features that is based on optimal transport theory; it uses the (quadratic) Wasserstein distance to quantify disparity between the feature distributions of two demographic groups (e.g., women vs men). In this context, we show that the Kantorovich potentials of the images, which are a byproduct of computing the Wasserstein distance and act as “transportation prices", can serve as bias scores by indicating which images might exhibit distinct biased characteristics. We thus introduce a visual dataset exploration pipeline that helps auditors identify common characteristics across high- or low-scored images as potential sources of bias. We conduct a case study to identify prospective gender biases and demonstrate theoretically-derived properties with experiments on the CelebA and Biased MNIST datasets.
 \
-[Paper]()
+[Paper](https://github.com/nobias-project/Publications/blob/main/fabbrizzi2024studying.pdf)
 
 ## Beyond Demographic Parity: Redefining Equal Treatment
-#### by _ _ 
-#### ()
-
+#### by _Carlos Mougan, Laura State, Antonio Ferrara, Salvatore Ruggieri, Steffen Staab_ 
+#### (ArXiv Preprint 2023)
+Liberalism-oriented political philosophy reasons that all individuals should be treated equally independently of their protected characteristics. Related work in machine learning has translated the concept of \emph{equal treatment} into terms of \emph{equal outcome} and measured it as \emph{demographic parity} (also called \emph{statistical parity}). Our analysis reveals that the two concepts of equal outcome and equal treatment diverge; therefore, demographic parity does not faithfully represent the notion of \emph{equal treatment}. We propose a new formalization for equal treatment by (i) considering the influence of feature values on predictions, such as computed by Shapley values decomposing predictions across its features, (ii) defining distributions of explanations, and (iii) comparing explanation distributions between populations with different protected characteristics. We show the theoretical properties of our notion of equal treatment and devise a classifier two-sample test based on the AUC of an equal treatment inspector. We study our formalization of equal treatment on synthetic and natural data. We release \texttt{explanationspace}, an open-source Python package with methods and tutorials.
 \
-[Paper]()
+[Paper](https://github.com/nobias-project/Publications/blob/main/mougan2023beyond.pdf)
 
 ## The Initial Screening Order Problem
-#### by _ _ 
-#### ()
-
+#### by _Jose M. Alvarez, Antonio Mastropietro, Salvatore Ruggieri_ 
+#### (ArXiv Preprint 2023)
+We investigate the role of the initial screening order (ISO) in candidate screening tasks, such as employee hiring and academic admissions, in which a screener is tasked with selecting k candidates from a candidate pool. The ISO refers to the order in which the screener searches the candidate pool. Today, it is common for the ISO to be the product of an information access system, such as an online platform or a database query. The ISO has been largely overlooked in the literature, despite its potential impact on the optimality and fairness of the chosen k candidates, especially under a human screener. We define two problem formulations describing the search behavior of the screener under the ISO: the best-k, where the screener selects the k best candidates; and the good-k, where the screener selects the k first good-enough candidates. To study the impact of the ISO, we introduce a human-like screener and compare it to its algorithmic counterpart, where the human-like screener is conceived to be inconsistent over time due to fatigue. In particular, our analysis shows that the ISO, under a human-like screener solving for the good-k problem, hinders individual fairness despite meeting group level fairness, and hampers the optimality of the selected k candidates. This is due to position bias, where a candidate's evaluation is affected by its position within the ISO. We report extensive simulated experiments exploring the parameters of the best-k and good-k problems for the algorithmic and human-like screeners. The simulation framework is flexible enough to account for multiple screening settings, being an alternative to running real-world candidate screening procedures. This work is motivated by a real-world candidate screening problem studied in collaboration with an European company.
 \
-[Paper]()
+[Paper](https://github.com/nobias-project/Publications/blob/main/alvarez2023initial.pdf)
 
 ## Supporting Online Toxicity Detection with Knowledge Graphs
-#### by _ _ 
-#### ()
-
+#### by _Paula Reyero Lobo, Enrico Daga, Harith Alani_ 
+#### (AAAI Conference on Web and Social Media 2022)
+Due to the rise in toxic speech on social media and other online platforms, there is a growing need for systems that could automatically flag or filter such content. Various supervised machine learning approaches have been proposed, trained from manually-annotated toxic speech corpora. However, annotators sometimes struggle to judge or to agree on which text is toxic and which group is being targeted in a given text. This could be due to bias, subjectivity, or unfamiliarity with used terminology (e.g. domain language, slang). In this paper, we propose the use of a knowledge graph to help in better understanding such toxic speech annotation issues. Our empirical results show that 3% in a sample of 19k texts mention terms associated with frequently attacked gender and sexual orientation groups that were not correctly identified by the annotators.
 \
-[Paper]()
+[Paper](https://github.com/nobias-project/Publications/blob/main/lobo2022toxicity.pdf)
 
 ## Counterfactual Explanation for Regression via Disentanglement in Latent Space
 #### by _ _ 
