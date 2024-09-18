@@ -186,32 +186,32 @@ Causal reasoning, in particular, counterfactual reasoning plays a central role i
 [Paper](https://github.com/nobias-project/Publications/blob/main/alvarez2024uncovering.pdf)
 
 ## Enhancing Fairness through Reweighting: A Path to Attain the Sufficiency Rule
-#### by _ _ 
-#### ()
-
+#### by _Xuan Zhao, Klaus Broelemann, Salvatore Ruggieri, Gjergji Kasneci_
+#### (European Conference on Artificial Intelligence 2024)
+We introduce an innovative approach to enhancing the empirical risk minimization (ERM) process in model training through a refined reweighting scheme of the training data to enhance fairness. This scheme aims to uphold the sufficiency rule in fairness by ensuring that optimal predictors maintain consistency across diverse sub-groups. We employ a bilevel formulation to address this challenge, wherein we explore sample reweighting strategies. Unlike conventional methods that hinge on model size, our formulation bases generalization complexity on the space of sample weights. We discretize the weights to improve training speed. Empirical validation of our method showcases its effectiveness and robustness, revealing a consistent improvement in the balance between prediction performance and fairness metrics across various experiments.
 \
-[Paper]()
+[Paper](https://github.com/nobias-project/Publications/blob/main/zhao2024enhancing.pdf)
 
 ## Link recommendations: Their impact on network structure and minorities
-#### by _ _ 
-#### ()
-
+#### by _Antonio Ferrara, Lisette Espín-Noboa, Fariba Karimi, Claudia Wagner_ 
+#### (ACM Web Science Conference 2022)
+Network-based people recommendation algorithms are widely employed on the Web to suggest new connections in social media or professional platforms. While such recommendations bring people together, the feedback loop between the algorithms and the changes in network structure may exacerbate social biases. These biases include rich-get-richer effects, filter bubbles, and polarization. However, social networks are diverse complex systems and recommendations may affect them differently, depending on their structural properties. In this work, we explore five people recommendation algorithms by systematically applying them over time to different synthetic networks. In particular, we measure to what extent these recommendations change the structure of bi-populated networks and show how these changes affect the minority group. Our systematic experimentation helps to better understand when link recommendation algorithms are beneficial or harmful to minority groups in social networks. In particular, our findings suggest that, while all algorithms tend to close triangles and increase cohesion, all algorithms except Node2Vec are prone to favor and suggest nodes with high in-degree. Furthermore, we found that, especially when both classes are heterophilic, recommendation algorithms can reduce the visibility of minorities.
 \
-[Paper]()
+[Paper](https://github.com/nobias-project/Publications/blob/main/ferrara2022link.pdf)
 
 ## Algorithmic Tools in Public Employment Services: Towards a Jobseeker-Centric Perspective
-#### by _ _ 
-#### ()
-
+#### by _Kristen M. Scott, Sonja Mei Wang, Milagros Miceli, Pieter Delobelle, Karolina Sztandar-Sztanderska, Bettina Berendt_ 
+#### (ACM Conference on Fairness, Accountability, and Transparency 2022)
+Data-driven and algorithmic systems have been introduced to support Public Employment Services (PES) throughout the world. Their deployment has sparked public controversy and, as a consequence, some of these systems have been removed from use or their role was reduced. Yet the implementation of similar systems continues. In this paper, we use a participatory approach to determine a course forward for research and development in this area. We draw attention to the needs and expectations of people directly affected by these systems, i.e., jobseekers. Our investigation comprises two workshops: the first a fact-finding workshop with academics, system developers, the public sector, and civil-society organizations, the second a co-design workshop with 13 unemployed migrants to Germany. Based on the discussion in the fact-finding workshop we identified challenges of existing PES (algorithmic) systems. From the co-design workshop we identified our participants’ needs and desires when contacting PES: the need for human contact, the expectation to receive genuine orientation, and the desire to be seen as a whole human being. We map these expectations to three design considerations for data-driven and algorithmic systems for PES: the importance of interpersonal interaction, jobseeker assessment as direction, and the challenge of mitigating misrepresentation. Finally, we argue that the limitations and risks of current systems cannot be addressed through minor adjustments but require a more fundamental change to the role of PES.
 \
-[Paper]()
+[Paper](https://github.com/nobias-project/Publications/blob/main/scott2022algorithmic.pdf)
 
 ## Bias in Hate Speech and Toxicity Detection
-#### by _ _ 
-#### ()
-
+#### by _Paula Reyero Lobo_ 
+#### (AAAI/ACM Conference on AI, Ethics, and Society 2022)
+Many Artificial Intelligence (AI) systems rely on finding patterns in large datasets, which are prone to bias and exacerbate existing segregation and inequalities of marginalised communities. Due to their socio-technical impact, bias in AI has become a pressing issue. In this work, we investigate discrimination prevention methods on the assumption that disparities of specific populations in the training samples are reproduced or even amplified in the AI system outcomes. We aim to identify the information from vulnerable groups in the training data, uncover potential inequalities in how data capture these groups and provide additional information about them to alleviate inequalities, e.g., stereotypical and generalised views that lead to learning discriminatory associations. We develop data preprocessing techniques in automated moderation (AI systems to flag or filter online abuse) due to its substantial social implications and existing challenges common to many AI applications.
 \
-[Paper]()
+[Paper](https://github.com/nobias-project/Publications/blob/main/lobo2022bias.pdf)
 
 ## Explanation Shift: Detecting distribution shifts on tabular data via the explanation space
 #### by _ _ 
