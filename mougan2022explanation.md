@@ -1,0 +1,6 @@
+## Explanation Shift: Detecting distribution shifts on tabular data via the explanation space
+#### by _Carlos Mougan, Klaus Broelemann, Gjergji Kasneci, Thanassis Tiropanis, Steffen Staab_ 
+#### (Workshop on Distribution Shifts: Connecting Methods and Applications at the Conference on Neural Information Processing Systems 2022)
+As input data distributions evolve, the predictive performance of machine learning models tends to deteriorate. In the past, predictive performance was considered the key indicator to monitor. However, explanation aspects have come to attention within the last years. In this work, we investigate how model predictive performance and model explanation characteristics are affected under distribution shifts and how these key indicators are related to each other for tabular data. We find that the modeling of explanation shifts can be a better indicator for the detection of predictive performance changes than state-of-the-art techniques based on representations of distribution shifts. We provide a mathematical analysis of different types of distribution shifts as well as synthetic experimental examples.
+\
+[Paper](https://github.com/nobias-project/Publications/blob/main/mougan2022explanation.pdf)
