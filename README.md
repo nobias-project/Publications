@@ -285,24 +285,23 @@ something as offensive and advocate giving more voice to these collectives. This
 [Paper](https://github.com/nobias-project/Publications/blob/main/lobo2022estimating.pdf)
 
 ## Affinity Clustering Framework for Data Debiasing Using Pairwise Distribution Discrepancy
-#### by _ _ 
-#### ()
-
+#### by _Siamak Ghodsi, Eirini Ntoutsi_
+#### (European Workshop on Algorithmic Fairness 2023)
+Group imbalance, resulting from inadequate or unrepresentative data collection methods, is a primary cause of representation bias in datasets. Representation bias can exist with respect to different groups of one or more protected attributes and might lead to prejudicial and discriminatory outcomes toward certain groups of individuals; in cases where a learning model is trained on such biased data. This paper presents MASC, a data augmentation approach that leverages affinity clustering to balance the representation of non-protected and protected groups of a target dataset by utilizing instances of the same protected attributes from similar datasets that are categorized in the same cluster as the target dataset by sharing instances of the protected attribute. The proposed method involves constructing an affinity matrix by quantifying distribution discrepancies between dataset pairs and transforming them into a symmetric pairwise similarity matrix. A non-parametric spectral clustering is then applied to this affinity matrix, automatically categorizing the datasets into an optimal number of clusters. We perform a step-by-step experiment as a demo of our method to show the procedure of the proposed data augmentation method and evaluate and discuss its performance. A comparison with other data augmentation methods, both pre- and post-augmentation, is conducted, along with a model evaluation analysis of each method. Our method can handle non-binary protected attributes so, in our experiments, bias is measured in a non-binary protected attribute setup w.r.t. racial groups distribution for two separate minority groups in comparison with the majority group before and after debiasing. Empirical results imply that our method of augmenting dataset biases using real (genuine) data from similar contexts can effectively debias the target datasets comparably to existing data augmentation strategies.
 \
-[Paper]()
+[Paper](https://github.com/nobias-project/Publications/blob/main/ghodsi2023affinity.pdf)
 
 ## The Role of Large Language Models in the Recognition of Territorial Sovereignty: An Analysis of the Construction of Legitimacy
-#### by _ _ 
-#### ()
-
+#### by _Francisco Castillo-Eslava, Carlos Mougan, Alejandro Romero-Reche, Steffen Staab_ 
+#### (European Workshop on Algorithmic Fairness 2023)
+We examine the potential impact of Large Language Models (LLM) on the recognition of territorial sovereignty and its legitimization. We argue that while technology tools, such as Google Maps and Large Language Models (LLM) like OpenAI's ChatGPT, are often perceived as impartial and objective, this perception is flawed, as AI algorithms reflect the biases of their designers or the data they are built on. We also stress the importance of evaluating the actions and decisions of AI and multinational companies that offer them, which play a crucial role in aspects such as legitimizing and establishing ideas in the collective imagination. Our paper highlights the case of three controversial territories: Crimea, West Bank and Transnitria, by comparing the responses of ChatGPT against Wikipedia information and United Nations resolutions. We contend that the emergence of AI-based tools like LLMs is leading to a new scenario in which emerging technology consolidates power and influences our understanding of reality. Therefore, it is crucial to monitor and analyze the role of AI in the construction of legitimacy and the recognition of territorial sovereignty.
 \
-[Paper]()
+[Paper](https://github.com/nobias-project/Publications/blob/main/delobelle2022time.pdf)
 
 ## Context matters for fairness -- a case study on the effect of spatial distribution shifts
-
-#### by _ _ 
-#### ()
-
+#### by _Siamak Ghodsi, Harith Alani, Eirini Ntoutsi_
+#### (ArXiv Preprint 2022)
+With the ever growing involvement of data-driven AI-based decision making technologies in our daily social lives, the fairness of these systems is becoming a crucial phenomenon. However, an important and often challenging aspect in utilizing such systems is to distinguish validity for the range of their application especially under distribution shifts, i.e., when a model is deployed on data with different distribution than the training set. In this paper, we present a case study on the newly released American Census datasets, a reconstruction of the popular Adult dataset, to illustrate the importance of context for fairness and show how remarkably can spatial distribution shifts affect predictive- and fairness-related performance of a model. The problem persists for fairness-aware learning models with the effects of context-specific fairness interventions differing across the states and different population groups. Our study suggests that robustness to distribution shifts is necessary before deploying a model to another context.
 \
-[Paper]()
+[Paper](https://github.com/nobias-project/Publications/blob/main/ghodsi2022context.pdf)
 
