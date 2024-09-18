@@ -1,0 +1,6 @@
+## Towards Cohesion-Fairness Harmony: Contrastive Regularization in Individual Fair Graph Clustering
+#### by _Siamak Ghodsi, Seyed Amjad Seyedi, Eirini Ntoutsi_
+#### (Pacific-Asia Conference on Knowledge Discovery and Data Mining 2024)
+Conventional fair graph clustering methods face two primary challenges: i) They prioritize balanced clusters at the expense of cluster cohesion by imposing rigid constraints, ii) Existing methods of both individual and group-level fairness in graph partitioning mostly rely on eigen decompositions and thus, generally lack interpretability. To address these issues, we propose iFairNMTF, an individual Fairness Nonnegative Matrix Tri-Factorization model with contrastive fairness regularization that achieves balanced and cohesive clusters. By introducing fairness regularization, our model allows for customizable accuracy-fairness trade-offs, thereby enhancing user autonomy without compromising the interpretability provided by nonnegative matrix tri-factorization. Experimental evaluations on real and synthetic datasets demonstrate the superior flexibility of iFairNMTF in achieving fairness and clustering performance.
+\
+[Paper](https://github.com/nobias-project/Publications/blob/main/ghodsi2024cohesion.pdf)
