@@ -1,0 +1,6 @@
+## A Causal Framework for Evaluating Deferring Systems
+#### by _Filippo Palomba, Andrea Pugnana, José Manuel Alvarez, Salvatore Ruggieri_ 
+#### (ArXiv Preprint 2024)
+Deferring systems extend supervised Machine Learning (ML) models with the possibility to defer predictions to human experts. However, evaluating the impact of a deferring strategy on system accuracy is still an overlooked area. This paper fills this gap by evaluating deferring systems through a causal lens. We link the potential outcomes framework for causal inference with deferring systems. This allows us to identify the causal impact of the deferring strategy on predictive accuracy. We distinguish two scenarios. In the first one, we can access both the human and the ML model predictions for the deferred instances. In such a case, we can identify the individual causal effects for deferred instances and aggregates of them. In the second scenario, only human predictions are available for the deferred instances. In this case, we can resort to regression discontinuity design to estimate a local causal effect. We empirically evaluate our approach on synthetic and real datasets for seven deferring systems from the literature.
+\
+[Paper](https://github.com/nobias-project/Publications/blob/main/palomba2024causal.pdf)
