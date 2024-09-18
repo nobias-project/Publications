@@ -1,0 +1,6 @@
+## Context matters for fairness -- a case study on the effect of spatial distribution shifts
+#### by _Siamak Ghodsi, Harith Alani, Eirini Ntoutsi_
+#### (ArXiv Preprint 2022)
+With the ever growing involvement of data-driven AI-based decision making technologies in our daily social lives, the fairness of these systems is becoming a crucial phenomenon. However, an important and often challenging aspect in utilizing such systems is to distinguish validity for the range of their application especially under distribution shifts, i.e., when a model is deployed on data with different distribution than the training set. In this paper, we present a case study on the newly released American Census datasets, a reconstruction of the popular Adult dataset, to illustrate the importance of context for fairness and show how remarkably can spatial distribution shifts affect predictive- and fairness-related performance of a model. The problem persists for fairness-aware learning models with the effects of context-specific fairness interventions differing across the states and different population groups. Our study suggests that robustness to distribution shifts is necessary before deploying a model to another context.
+\
+[Paper](https://github.com/nobias-project/Publications/blob/main/ghodsi2022context.pdf)
