@@ -1,0 +1,6 @@
+## Bias in Hate Speech and Toxicity Detection
+#### by _Paula Reyero Lobo_ 
+#### (AAAI/ACM Conference on AI, Ethics, and Society 2022)
+Many Artificial Intelligence (AI) systems rely on finding patterns in large datasets, which are prone to bias and exacerbate existing segregation and inequalities of marginalised communities. Due to their socio-technical impact, bias in AI has become a pressing issue. In this work, we investigate discrimination prevention methods on the assumption that disparities of specific populations in the training samples are reproduced or even amplified in the AI system outcomes. We aim to identify the information from vulnerable groups in the training data, uncover potential inequalities in how data capture these groups and provide additional information about them to alleviate inequalities, e.g., stereotypical and generalised views that lead to learning discriminatory associations. We develop data preprocessing techniques in automated moderation (AI systems to flag or filter online abuse) due to its substantial social implications and existing challenges common to many AI applications.
+\
+[Paper](https://github.com/nobias-project/Publications/blob/main/lobo2022bias.pdf)
