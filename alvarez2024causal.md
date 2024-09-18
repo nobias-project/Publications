@@ -1,0 +1,6 @@
+## Causal Perception
+#### by _Jose M. Alvarez, Salvatore Ruggieri_ 
+#### (ArXiv Preprint 2024)
+Perception occurs when two individuals interpret the same information differently. Despite being a known phenomenon with implications for bias in decision-making, as individual experience determines interpretation, perception remains largely overlooked in machine learning (ML) research. Modern decision flows, whether partially or fully automated, involve human experts interacting with ML applications. How might we then, e.g., account for two experts that interpret differently a deferred instance or an explanation from a ML model? To account for perception, we first need to formulate it. In this work, we define perception under causal reasoning using structural causal models (SCM). Our framework formalizes individual experience as additional causal knowledge that comes with and is used by a human expert (read, decision maker). We present two kinds of causal perception, unfaithful and inconsistent, based on the SCM properties of faithfulness and consistency. Further, we motivate the importance of perception within fairness problems. We illustrate our framework through a series of decision flow examples involving ML applications and human experts.
+\
+[Paper](https://github.com/nobias-project/Publications/blob/main/alvarez2024causal.pdf)
