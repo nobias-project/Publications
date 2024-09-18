@@ -157,32 +157,33 @@ Explainable artificial intelligence (XAI) is a rapidly growing research field th
 [Paper](https://github.com/nobias-project/Publications/blob/main/state2023careful.pdf)
 
 ## Constructing Meaningful Explanations: Logic-based Approaches
-#### by _ _ 
-#### ()
-
+#### by _Laura State_ 
+#### (AAAI/ACM Conference on AI, Ethics, and Society 2022)
+Machine learning (ML) models are ubiquitous: we encounter them when using a search engine, behind online text translation, etc. However, these models have to be used with care, as they are susceptible to social biases. Further, most ML models are inherently opaque, another obstacle to understand and verify them.
+Being concerned with meaningful explanations, this work is putting forward two research paths: constructing counterfactual explanations with prior knowledge, and reasoning over explanations and time. Prior knowledge has the potential to significantly increase explanation quality, whereas time dimensions are necessary to track changes in ML models and explanations. The proposal builds on (constraint) logic programming and meta-reasoning. While situated in the computer sciences, it strives to reflect the interdisciplinary character of the field of eXplainable Artificial Intelligence.
 \
-[Paper]()
+[Paper](https://github.com/nobias-project/Publications/blob/main/state2022constructing.pdf)
 
 ## Causal Perception
-#### by _ _ 
-#### ()
-
+#### by _Jose M. Alvarez, Salvatore Ruggieri_ 
+#### (ArXiv Preprint 2024)
+Perception occurs when two individuals interpret the same information differently. Despite being a known phenomenon with implications for bias in decision-making, as individual experience determines interpretation, perception remains largely overlooked in machine learning (ML) research. Modern decision flows, whether partially or fully automated, involve human experts interacting with ML applications. How might we then, e.g., account for two experts that interpret differently a deferred instance or an explanation from a ML model? To account for perception, we first need to formulate it. In this work, we define perception under causal reasoning using structural causal models (SCM). Our framework formalizes individual experience as additional causal knowledge that comes with and is used by a human expert (read, decision maker). We present two kinds of causal perception, unfaithful and inconsistent, based on the SCM properties of faithfulness and consistency. Further, we motivate the importance of perception within fairness problems. We illustrate our framework through a series of decision flow examples involving ML applications and human experts.
 \
-[Paper]()
+[Paper](https://github.com/nobias-project/Publications/blob/main/alvarez2024causal.pdf)
 
 ## A Causal Framework for Evaluating Deferring Systems
-#### by _ _ 
-#### ()
-
+#### by _Filippo Palomba, Andrea Pugnana, José Manuel Alvarez, Salvatore Ruggieri_ 
+#### (ArXiv Preprint 2024)
+Deferring systems extend supervised Machine Learning (ML) models with the possibility to defer predictions to human experts. However, evaluating the impact of a deferring strategy on system accuracy is still an overlooked area. This paper fills this gap by evaluating deferring systems through a causal lens. We link the potential outcomes framework for causal inference with deferring systems. This allows us to identify the causal impact of the deferring strategy on predictive accuracy. We distinguish two scenarios. In the first one, we can access both the human and the ML model predictions for the deferred instances. In such a case, we can identify the individual causal effects for deferred instances and aggregates of them. In the second scenario, only human predictions are available for the deferred instances. In this case, we can resort to regression discontinuity design to estimate a local causal effect. We empirically evaluate our approach on synthetic and real datasets for seven deferring systems from the literature.
 \
-[Paper]()
+[Paper](https://github.com/nobias-project/Publications/blob/main/palomba2024causal.pdf)
 
 ## Uncovering Algorithmic Discrimination: An Opportunity to Revisit the Comparator
-#### by _ _ 
-#### ()
-
+#### by _Jose M. Alvarez, Salvatore Ruggieri_ 
+#### (ArXiv Preprint 2024)
+Causal reasoning, in particular, counterfactual reasoning plays a central role in testing for discrimination. Counterfactual reasoning materializes when testing for discrimination, what is known as the counterfactual model of discrimination, when we compare the discrimination comparator with the discrimination complainant, where the comparator is a similar (or similarly situated) profile to that of the complainant used for testing the discrimination claim of the complainant. In this paper, we revisit the comparator by presenting two kinds of comparators based on the sort of causal intervention we want to represent. We present the ceteris paribus and the mutatis mutandis comparator, where the former is the standard and the latter is a new kind of comparator. We argue for the use of the mutatis mutandis comparator, which is built on the fairness given the difference notion, for testing future algorithmic discrimination cases.
 \
-[Paper]()
+[Paper](https://github.com/nobias-project/Publications/blob/main/alvarez2024uncovering.pdf)
 
 ## Enhancing Fairness through Reweighting: A Path to Attain the Sufficiency Rule
 #### by _ _ 
