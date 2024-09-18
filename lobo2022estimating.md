@@ -1,0 +1,7 @@
+## Estimating Ground Truth in a Low-labelled Data Regime: A Study of Racism Detection in Spanish
+#### by _Paula Reyero Lobo, Martino Mensio, Angel Pavon Perez, Vaclav Bayer, Joseph Kwarteng, Miriam Fernandez, Enrico Daga, Harith Alani_ 
+#### (Workshop Proceedings of the AAAI Conference on Web and Social Media 2022)
+Obtaining reliable and quality training datasets is resourceintensive, especially in interpretation and human judgment tasks, such as racism detection. Related work reveals that annotators subjected to hate are more sensitive to labelling
+something as offensive and advocate giving more voice to these collectives. This study analyses a new dataset for detecting racism in Spanish, focusing on solving a ground truth estimate given a few labels and high disagreement. Most annotators may not have previous experience with racism, as only three belong to the Black community. Our empirical results show better performance at lower thresholds for classifying messages as racist, which may be due to how annotators being permissive in identifying racist content propagates to the model. This analysis can be crucial for tailoring a general model to the specific needs of a particular individual or group. Especially in applications such as online abuse, detection models that reflect the viewpoint of crowdworkers may not be sufficient to detect all the intricacies of these social challenges.
+\
+[Paper](https://github.com/nobias-project/Publications/blob/main/lobo2022estimating.pdf)
